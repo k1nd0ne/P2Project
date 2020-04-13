@@ -1,0 +1,857 @@
+[Master Repository] Server is up and running.
+[Master Repository] Client connected [/192.168.1.27:49629]
+[Master Repository] Server is up and running.
+--2020/04/13/21:37--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:37--[Master Repository] Authentication success for /192.168.1.27:49630
+--2020/04/13/21:37--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+[Master Repository] Client connected [/127.0.0.1:53108]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /127.0.0.1:53109
+--2020/04/13/21:38--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+[Master Repository] Client connected [/192.168.1.27:49631]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49632
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49631 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49632]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49633
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49632 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49633]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49634
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49633 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49633 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49632 disconnected.
+[Master Repository] Client connected [/192.168.1.27:49634]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49635
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49634 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49635]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49636
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49635 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49636]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49637
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49636 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49637]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49638
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49637 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49638]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49639
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49638 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49639]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49640
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49639 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49640]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49641
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49640 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49641]
+[Master Repository] Server is up and running.
+--2020/04/13/21:38--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:38--[Master Repository] Authentication success for /192.168.1.27:49642
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49641 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:37--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:38--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:39--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:39--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:40--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49636 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49637 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49642 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49639 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49638 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49635 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49634 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49640 disconnected.
+--2020/04/13/21:38--[Master Repository] /192.168.1.27:49641 disconnected.
+--2020/04/13/21:40--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+[Master Repository] Client connected [/127.0.0.1:53147]
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /127.0.0.1:53148
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53147 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49655]
+[Master Repository] Server is up and running.
+[Master Repository] Client connected [/127.0.0.1:53153]
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /192.168.1.27:49656
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /127.0.0.1:53154
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49655 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53153 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49656]
+[Master Repository] Server is up and running.
+[Master Repository] Client connected [/127.0.0.1:53158]
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /192.168.1.27:49657
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49656 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /127.0.0.1:53159
+[Master Repository] Client connected [/192.168.1.27:49657]
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /192.168.1.27:49658
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49657 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53158 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49658]
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /192.168.1.27:49659
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49658 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49659]
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /192.168.1.27:49660
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49659 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53159]
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /127.0.0.1:53160
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53159 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53160]
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /127.0.0.1:53161
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53160 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53161]
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53154 disconnected.
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53148 disconnected.
+[Master Repository] Server is up and running.
+--2020/04/13/21:42--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:42--[Master Repository] Authentication success for /127.0.0.1:53162
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53161 policy update for 127.0.0.1 + 1 file downloaded
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49656 disconnected.
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49658 disconnected.
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49657 disconnected.
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49659 disconnected.
+--2020/04/13/21:42--[Master Repository] /192.168.1.27:49660 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+[Master Repository] Client connected [/192.168.1.27:49660]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49661
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49660 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49661]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49662
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49661 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49662]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49663
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49662 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49663]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49664
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49663 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49664]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49665
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49664 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49665]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49666
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49665 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49666]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49667
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49666 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49667]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49668
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49667 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49668]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49669
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49668 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49669]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49670
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49669 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49670]
+[Master Repository] Server is up and running.
+--2020/04/13/21:43--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:43--[Master Repository] Authentication success for /192.168.1.27:49671
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49670 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53162 disconnected.
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53160 disconnected.
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53161 disconnected.
+--2020/04/13/21:43--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:42--[Master Repository] /127.0.0.1:53159 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49662 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49661 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49663 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49665 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49664 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49666 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49667 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49668 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49669 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49670 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49671 disconnected.
+--2020/04/13/21:43--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+[Master Repository] Client connected [/192.168.1.27:49671]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49672
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49671 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49672]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49673
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49672 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49673]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49674
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49673 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49674]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49675
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49674 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49675]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49676
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49675 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49676]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49677
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49676 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49677]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49678
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49677 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49678]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49679
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49678 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49679]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49680
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49679 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49680]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49681
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49680 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49681]
+[Master Repository] Server is up and running.
+--2020/04/13/21:44--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:44--[Master Repository] Authentication success for /192.168.1.27:49682
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49681 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49682]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49683
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49682 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49683]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49684
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49683 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49684]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49685
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49684 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49685]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49686
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49685 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49686]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49687
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49686 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49687]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49688
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49687 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49688]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49689
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49688 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49689]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49690
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49689 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49690]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49691
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49690 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49691]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49692
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49691 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49692]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49693
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49692 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49693 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49681 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49680 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49679 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49678 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49677 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49676 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49675 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49674 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49673 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49672 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49692 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49691 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49690 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49689 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49688 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49686 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49687 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49685 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49683 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49682 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49684 disconnected.
+--2020/04/13/21:45--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+[Master Repository] Client connected [/192.168.1.27:49693]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49694
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49693 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49694]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49695
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49694 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49695]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49696
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49695 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49696]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49697
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49696 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49697]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49698
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49697 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49698]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49699
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49698 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49699]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49700
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49699 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49700]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49701
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49700 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49701]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49702
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49701 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49702]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49703
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49702 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49703]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49704
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49703 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49704]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49705
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49704 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49705]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49706
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49705 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49706]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49707
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49706 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49707]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49708
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49707 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49708]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49709
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49708 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49709]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49710
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49709 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49710]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49711
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49710 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49711]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49712
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49711 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49712]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49713
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49712 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49713]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49714
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49713 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49714]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49715
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49714 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49696 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49695 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49694 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49697 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49698 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49699 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49701 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49702 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49703 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49704 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49713 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49715 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49712 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49711 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49710 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49706 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49709 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49707 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49705 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49700 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49708 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49714 disconnected.
+--2020/04/13/21:44--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+[Master Repository] Client connected [/192.168.1.27:49715]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49716
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49715 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49716]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49717
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49716 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49717]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49718
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49717 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49718]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49719
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49718 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49719]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49720
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49719 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49720]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49721
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49720 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49721]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49722
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49721 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49722]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49723
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49722 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49723]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49724
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49723 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49724]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49725
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49724 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49725]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49726
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49725 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49726]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49727
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49726 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49727]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49728
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49727 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49728]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49729
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49728 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49729]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49730
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49729 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49730]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49731
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49730 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49731]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49732
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49731 policy update for 192.168.1.27 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49732]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49733
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49732 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49732 policy update for 192.168.1.27 -> download penality applied
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49716 disconnected.
+[Master Repository] Client connected [/192.168.1.27:49733]
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49717 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49719 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49720 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49729 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49730 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49731 disconnected.
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49722 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49723 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49725 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49724 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49727 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49726 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49718 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49732 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49721 disconnected.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49728 disconnected.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49734
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49733 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49733 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/192.168.1.27:49734]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49735
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49734 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49734 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/192.168.1.27:49735]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49736
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49735 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49735 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/192.168.1.27:49736]
+[Master Repository] Server is up and running.
+--2020/04/13/21:45--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:45--[Master Repository] Authentication success for /192.168.1.27:49737
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49736 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49736 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/127.0.0.1:53256]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /127.0.0.1:53257
+[Master Repository] Client connected [/192.168.1.27:49737]
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53256 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /192.168.1.27:49738
+[Master Repository] Client connected [/127.0.0.1:53263]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49737 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:46--[Master Repository] Authentication success for /127.0.0.1:53264
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49737 policy update for 192.168.1.27 -> download penality applied
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53263 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49738]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /192.168.1.27:49739
+[Master Repository] Client connected [/127.0.0.1:53267]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /127.0.0.1:53268
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49738 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49738 policy update for 192.168.1.27 -> download penality applied
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53267 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49739]
+[Master Repository] Server is up and running.
+[Master Repository] Client connected [/127.0.0.1:53268]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /127.0.0.1:53269
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53268 policy update for 127.0.0.1 + 1 file downloaded
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /192.168.1.27:49740
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49739 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49739 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/127.0.0.1:53269]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /127.0.0.1:53270
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53269 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49740]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /192.168.1.27:49741
+[Master Repository] Client connected [/127.0.0.1:53270]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /127.0.0.1:53271
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49740 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49740 policy update for 192.168.1.27 -> download penality applied
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53270 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53271]
+[Master Repository] Server is up and running.
+--2020/04/13/21:46--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:46--[Master Repository] Authentication success for /127.0.0.1:53272
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53271 policy update for 127.0.0.1 + 1 file downloaded
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53271 disconnected.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53272 disconnected.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53270 disconnected.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53269 disconnected.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53264 disconnected.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53268 disconnected.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53257 disconnected.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49734 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49733 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49735 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49736 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49737 disconnected.
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49738 disconnected.
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49740 disconnected.
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49739 disconnected.
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49741 disconnected.
+--2020/04/13/21:45--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:46--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:46--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:47--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:47--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:48--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:48--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:49--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:49--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:50--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:50--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:51--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:51--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+[Master Repository] Client connected [/127.0.0.1:53305]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53306
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53305 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49744]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /192.168.1.27:49745
+[Master Repository] Client connected [/127.0.0.1:53313]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53314
+--2020/04/13/21:52--[Master Repository] /192.168.1.27:49744 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53313 policy update for 127.0.0.1 + 1 file downloaded
+--2020/04/13/21:52--[Master Repository] /192.168.1.27:49744 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/127.0.0.1:53316]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53317
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53316 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53317]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53318
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53317 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53318]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53319
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53318 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53319]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53320
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53319 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53320]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53321
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53320 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53321]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53322
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53321 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53322]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53323
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53322 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53323]
+[Master Repository] Server is up and running.
+--2020/04/13/21:52--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:52--[Master Repository] Authentication success for /127.0.0.1:53324
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53323 policy update for 127.0.0.1 + 1 file downloaded
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53108 is writting to the directory.
+--2020/04/13/21:52--[Master Repository] /192.168.1.27:49745 disconnected.
+--2020/04/13/21:52--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53319 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53317 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53314 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53324 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53318 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53322 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53323 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53306 disconnected.
+--2020/04/13/21:53--[Master Repository] /127.0.0.1:53109 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53321 disconnected.
+--2020/04/13/21:52--[Master Repository] /127.0.0.1:53320 disconnected.
+--2020/04/13/21:53--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:54--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+[Master Repository] Client connected [/127.0.0.1:53381]
+[Master Repository] Server is up and running.
+--2020/04/13/21:55--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:55--[Master Repository] Authentication success for /127.0.0.1:53382
+--2020/04/13/21:55--[Master Repository] /127.0.0.1:53381 is writting to the directory.
+[Master Repository] Client connected [/127.0.0.1:53385]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53386
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53385 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/192.168.1.27:49745]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /192.168.1.27:49746
+--2020/04/13/21:56--[Master Repository] /192.168.1.27:49745 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:56--[Master Repository] /192.168.1.27:49745 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/192.168.1.27:49746]
+[Master Repository] Server is up and running.
+[Master Repository] Client connected [/127.0.0.1:53395]
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] Authentication success for /192.168.1.27:49747
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53396
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53395 policy update for 127.0.0.1 + 1 file downloaded
+--2020/04/13/21:56--[Master Repository] /192.168.1.27:49746 policy update for 192.168.1.27 + 1 file downloaded
+--2020/04/13/21:56--[Master Repository] /192.168.1.27:49746 policy update for 192.168.1.27 -> download penality applied
+[Master Repository] Client connected [/127.0.0.1:53396]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53397
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53396 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53397]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53398
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53397 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53398]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53399
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53398 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53399]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53400
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53399 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53400]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53401
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53400 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53401]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53402
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53401 policy update for 127.0.0.1 + 1 file downloaded
+[Master Repository] Client connected [/127.0.0.1:53402]
+[Master Repository] Server is up and running.
+--2020/04/13/21:56--[Master Repository] user attempt to authenticate.
+--2020/04/13/21:56--[Master Repository] Authentication success for /127.0.0.1:53403
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53402 policy update for 127.0.0.1 + 1 file downloaded
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53403 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53402 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53401 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53400 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53399 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53398 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53396 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53397 disconnected.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53386 disconnected.
+--2020/04/13/21:56--[Master Repository] /192.168.1.27:49746 disconnected.
+--2020/04/13/21:56--[Master Repository] /192.168.1.27:49747 disconnected.
+--2020/04/13/21:55--[Master Repository] /192.168.1.27:49629 is writting to the directory.
+--2020/04/13/21:56--[Master Repository] /127.0.0.1:53382 disconnected.
+--2020/04/13/21:56--[Master Repository] /192.168.1.27:49630 disconnected.
