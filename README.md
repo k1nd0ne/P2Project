@@ -92,7 +92,7 @@ To use the P2P program, execute the following code with Linux/Mac Os terminal :
 First, open one terminal and navigate to the github project directory.
 
 ```
-# cd FTP-P2P/
+# cd P2Project/
 ```
 Because it is juste an intermediate version you'll have to compile the files.
 
@@ -127,3 +127,65 @@ Example :
 # user>get image.jpg 
 ```
 
+
+# P2P - V2 - Instructions 
+
+To use the P2P program, execute the following code with Linux/Mac Os terminal :
+
+
+First, open one terminal and navigate to the github project directory.
+
+```
+# cd P2Project/
+```
+Because it is juste an intermediate version you'll have to compile the files.
+
+```
+# javac ./src/P2P_V2/*.java
+# mkdir ./bin/P2P_V2
+# mv ./src/P2P_V2/*.class ./bin/P2P_V2
+```
+
+Then, launch the P2P Master repository server.
+
+```
+# java -cp ./bin P2P_V2.MainMasterRepo
+```
+
+Finally, launch the client an authentifiate with user:password creds.
+```
+# java -cp ./bin P2P_V2.MainClientP2P 
+```
+Type help to begin.
+The files you download from the server are stored into the ./src/loot directory.
+
+```
+Example : 
+# user>get image.jpg 
+```
+
+# P2P - V3 - Instructions
+
+To use the latest P2P program, execute the following code with Linux/Mac Os terminal :
+```
+# cd P2Project/
+```
+Then launch the install : 
+```
+# bash installWEB.sh
+```
+Next, launch the Master Repository : 
+```
+# bash Repository
+```
+You can open a webserver on P2Project/Web to see the dashboard in live.
+
+Finally launch a Client : 
+```
+# bash Client
+```
+File you share/Download are locate in : P2Project/src/loot
+
+# P2P - Docker Instruction. 
+
+See Readme in the dockerFolder.
