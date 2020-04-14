@@ -13,24 +13,15 @@ You need to install docker : https://docs.docker.com/install/
 Navigate to the root project directory then build the docker image. 
 
 ```
-# cd FTP-P2P/
+# cd P2Project/
 # docker build ./ -t p2pjava:latest
 ```
 
 Then you can enter into your image container an fire up a bash
 ```
-# docker run --network host -it p2pjava:latest bash
-# cd FTP-P2P; bash Client
+# docker run -e DISPLAY=$DISPLAY --network host -it p2pjava:latest bash
+# cd P2Project; bash Client
 ```
 
 You'll need to indicate the ip of the host that runs the Repository.
-
-
-Type help to begin.
-The files you download (and share !), from the other clients are stored into the ./src/loot directory.
-
-```
-Example : 
-$>get image.jpg 
-```
 
