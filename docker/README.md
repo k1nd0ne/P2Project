@@ -4,6 +4,7 @@ This docker file will create an image that fireup a client in a container.
 
 The goal is to create a virtual client in the same host network to download files.
 
+THIS PART IS IN DEVELOPPEMENT.
 # Requirements  
 
 You need to install docker : https://docs.docker.com/install/
