@@ -91,7 +91,7 @@ public class DownloadThread extends Thread {
 			String path = "./src/loot/parts/";
 
 			// Threads creation. (Reminder : 11 Thread at most ! All files are splitted in 11 parts at most.
-			ArrayList<Client_Transfer> ThreadList = new ArrayList<Client_Transfer>();
+			ArrayList<TransferThread> ThreadList = new ArrayList<TransferThread>();
 				ObjectInputStream is = new ObjectInputStream(sock.getInputStream());
 				this.directory = (ArrayList<String>) is.readObject();
 				if(this.directory.isEmpty()) {
@@ -109,7 +109,7 @@ public class DownloadThread extends Thread {
 				for (String line : this.directory) {
 					infoTemp = line.split(":");
 					if (!new File(path + infoTemp[1]).exists()) {
-						Client_Transfer t = new Client_Transfer(infoTemp[0], infoTemp[1],
+						TransferThread t = new TransferThread(infoTemp[0], infoTemp[1],
 								Integer.parseInt(infoTemp[2]),this.progressBar_1,this.directory.size());
 						ThreadList.add(t);
 						size++;
@@ -117,12 +117,12 @@ public class DownloadThread extends Thread {
 
 				}
 				// Threads execution
-				for (Client_Transfer t : ThreadList) {
+				for (TransferThread t : ThreadList) {
 					t.start();
 				}
 				
 				//We wait until all the threads are finished before reforming the file.
-				for (Client_Transfer t : ThreadList) {
+				for (TransferThread t : ThreadList) {
 					if (t.isAlive()) {
 						try {
 							t.join();

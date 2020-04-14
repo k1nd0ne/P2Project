@@ -50,7 +50,7 @@ public class Client extends Thread {
 	private String password;
 	private String resp;
 	private String dbPath;
-	private ClientServerSide distrib; // The server part of the client.
+	private ServerSide distrib; // The server part of the client.
 
 	/* Graphic components declaration */
 	private JPanel jp;
@@ -249,7 +249,7 @@ public class Client extends Thread {
 		/* SERVER LAUNCH AND REGISTRATION TO THE DIRECTORY SERV */
 		/********************************************************/
 		try {
-			this.distrib = new ClientServerSide(this.dbPath, this.sock, this.sock.getLocalPort(), jp,
+			this.distrib = new ServerSide(this.dbPath, this.sock, this.sock.getLocalPort(), jp,
 					this.serverField.getText());
 			distrib.start();
 			this.connectLabel.setText("Connected");
@@ -408,11 +408,11 @@ public class Client extends Thread {
 				if (new File("./src/loot/" + file).exists()) {
 					connectLabel.setText("File already downloaded.");
 					connectLabel.setForeground(Color.RED);
-				} //else {
+				} else {
 					DownloadThread dl = new DownloadThread(file, sock, connectButton, progressBar_1, btnDownload,
 							lblDownloadInProgress, list_1);
 					dl.start();
-				//}
+				}
 
 			}
 

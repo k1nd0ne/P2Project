@@ -1,0 +1,1 @@
+echo 'Please fire up a webserver in FTP-P2P/Web/ServerConsol/index.html and open your browser...'; java -cp ./bin P2P_WEB.MainMasterRepo > ./Web/ServerConsol/serverLog

@@ -14,7 +14,7 @@ import javax.swing.JProgressBar;
  * @author k1nd0ne
  *
  */
-public class Client_Transfer extends Thread {
+public class TransferThread extends Thread {
 	private Socket sock;
 	private String filename;
 	private String server;
@@ -33,7 +33,7 @@ public class Client_Transfer extends Thread {
 	 * @throws UnknownHostException
 	 * @throws IOException
 	 */
-	public Client_Transfer(String filename, String server, int port,JProgressBar progress, int size) throws UnknownHostException, IOException {
+	public TransferThread(String filename, String server, int port,JProgressBar progress, int size) throws UnknownHostException, IOException {
 		this.sock = new Socket(server,port);
 		this.filename = filename;
 		this.server = server;

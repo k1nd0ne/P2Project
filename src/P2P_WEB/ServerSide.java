@@ -24,7 +24,7 @@ import javax.swing.JPanel;
  * @author k1nd0ne
  *
  */
-public class ClientServerSide extends Thread {
+public class ServerSide extends Thread {
 	private String request;
 	private ArrayList<Register> regList; // A list of directory entries.
 	private ArrayList<String> directory; // A list of servers coming from the directory.
@@ -46,7 +46,7 @@ public class ClientServerSide extends Thread {
 	 * @param display
 	 * @param ClientSockPort
 	 */
-	public ClientServerSide(String dbPath, Socket sock, int ClientSockPort, JPanel panel, String addr) {
+	public ServerSide(String dbPath, Socket sock, int ClientSockPort, JPanel panel, String addr) {
 		this.dbPath = dbPath + "/parts/";
 		this.RepoSock = sock;
 		this.regList = new ArrayList<Register>();
